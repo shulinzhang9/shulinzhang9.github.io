@@ -74,10 +74,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Neurolinguistics
+          tag: neuro-ling
+        - name: Computational-Linguisitcs
+          tag: comp-ling
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -107,10 +107,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-      
+              * Deploying studies in computational linguisitcs and neurolinguistics 
+              * Teaching
     design:
       columns: '2'
 
