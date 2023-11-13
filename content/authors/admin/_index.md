@@ -74,6 +74,6 @@ social:
 highlight_name: true
 ---
 
-Shulin Zhang is a PhD candidate in Computational Linguisitcs at the University of Georgia. Her research interests are using Machine Learning methods to study languages, and the language processing mechanism in the human brain. 
+Shulin Zhang is a PhD candidate in Computational Linguistics at the University of Georgia. Her research interests are using Machine Learning methods to study languages, and the language processing mechanism in the human brain. 
 Email: shulinzhang9 @ gmail.com
 {style="text-align: justify;"}
