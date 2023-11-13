@@ -31,6 +31,7 @@ bio: My research interests include computational linguistics and neurolinguisitc
 interests:
   - Artificial Intelligence
   - Computational Linguistics
+  - Natural Language Processing
 
 # Education to show in About widget
 education:
@@ -53,9 +54,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/shulin_zh
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Ue4DwVAAAAAJ&hl=en
@@ -70,12 +68,12 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/uploads/resume.pdf
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Shulin Zhang is a PhD candidate in Computational Linguisitcs at the University of Georgia. Her research interests are using Machine Learning methods to study languages, and the language processing mechanism in the human brain. 
-Email: shulinzhang9 [at] gmail.com
+Email: shulinzhang9 @ gmail.com
 {style="text-align: justify;"}
