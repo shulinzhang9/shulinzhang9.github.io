@@ -2,12 +2,10 @@
 title: "Decoding the silence: Neural bases of zero pronoun resolution in Chinese"
 authors:
 - admin
-- Jixing Li
-- John Hale
+
 author_notes:
 - ""
-- ""
-- ""
+
 
 date: "2022-01-01T00:00:00Z"
 doi: ""
