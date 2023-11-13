@@ -74,10 +74,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Neurolinguistics
-          tag: neuro-ling
-        - name: Computational-Linguisitcs
-          tag: comp-ling
+        
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
