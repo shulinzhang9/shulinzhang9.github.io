@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-date: 2022-10-24
+title: 'Shulin Zhang Bio'
+date: 2023-11-13
 type: landing
 
 sections:

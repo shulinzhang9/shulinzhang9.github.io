@@ -50,9 +50,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: shulinzhang9@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/shulin_zh
@@ -73,11 +70,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: static/uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Shulin Zhang is a PhD candidate in Computational Linguisitcs at the University of Georgia. Her research interests are using Machine Learning methods to study languages, and the language processing mechanism in the human brain.
+Shulin Zhang is a PhD candidate in Computational Linguisitcs at the University of Georgia. Her research interests are using Machine Learning methods to study languages, and the language processing mechanism in the human brain. Email: shulinzhang9 [at] gmail.com
 {style="text-align: justify;"}
