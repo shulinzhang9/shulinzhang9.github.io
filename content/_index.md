@@ -10,7 +10,8 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admi- block: experience
+      username: admin 
+  - block: experience
     content:
       title: Experience
       # Date format for experience
