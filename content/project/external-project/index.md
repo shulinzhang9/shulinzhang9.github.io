@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: ELIC
+summary: Endangered Languages in Contact in Istria and Kvarner, Croatia
 tags:
   - Demo
-date: "2016-04-27T00:00:00Z"
+date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://elic-corpus.uga.edu/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: The ELIC Corpus Data Collection Points.
   focal_point: Smart
 ---
