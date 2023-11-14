@@ -6,6 +6,8 @@ title: 'Quantifying Discourse Support for Omitted Pronouns'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Jixing Li
+  - John Hale
 
 
 # Author notes (optional)
