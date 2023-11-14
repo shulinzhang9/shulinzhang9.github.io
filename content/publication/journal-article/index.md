@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Decoding the silence: Neural bases of zero pronoun resolution in Chinese"
 authors:
 - admin
-- Robert Ford
+- Jixing Li
+- Yiming Yang
+- John Hale
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+date: "2022-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Brain and Language*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Chinese is one of many languages that can drop subjects. We report an fMRI study of language comprehension processes in these zero pronoun cases. The fMRI data come from Chinese speakers who listened to an audiobook. We conducted both univariate GLM and multivariate pattern analysis (MVPA) on these data. We found increased left Temporal Lobe activity for zero pronouns compared to overt subjects, suggesting additional effort searching for an antecedent during zero pronoun resolution. MVPA further revealed that the intended referent of a zero pronoun can be decoded in the Parahippocampal Gyrus and the Precuneus shortly after its presentation. This highlights the role of memory and discourse-level processing in resolving referential expressions, including unspoken ones, in naturalistic language comprehension.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: fMRI study on Chinese pro-drop.
 
 tags:
 - Source Themes
@@ -33,8 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -61,7 +63,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
