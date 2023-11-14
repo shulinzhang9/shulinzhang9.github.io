@@ -1,5 +1,5 @@
 ---
-title: "Decoding the silence: Neural bases of zero pronoun resolution in Chinese"
+title: 'Decoding the silence: Neural bases of zero pronoun resolution in Chinese'
 authors:
 - admin
 - Jixing Li
@@ -20,7 +20,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Brain and Language*"
+publication: In *Brain and Language*
 publication_short: ""
 
 abstract: Chinese is one of many languages that can drop subjects. We report an fMRI study of language comprehension processes in these zero pronoun cases. The fMRI data come from Chinese speakers who listened to an audiobook. We conducted both univariate GLM and multivariate pattern analysis (MVPA) on these data. We found increased left Temporal Lobe activity for zero pronouns compared to overt subjects, suggesting additional effort searching for an antecedent during zero pronoun resolution. MVPA further revealed that the intended referent of a zero pronoun can be decoded in the Parahippocampal Gyrus and the Precuneus shortly after its presentation. This highlights the role of memory and discourse-level processing in resolving referential expressions, including unspoken ones, in naturalistic language comprehension.
